@@ -40,7 +40,7 @@ Esta análise fornece uma compreensão aprofundada das desigualdades no acesso a
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/datalabe/racismo-ambiental-censo-2022.git
 
 2. **Navegue até o diretório do projeto:**
 
