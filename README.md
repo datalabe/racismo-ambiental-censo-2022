@@ -50,5 +50,9 @@ Esta análise fornece uma compreensão aprofundada das desigualdades no acesso a
 
    ```bash
      pip install -r requirements.txt
+4. **Inicie por aqui:**
+
+   ```bash
+    jupyter notebook Analise_SaneamentoPopulacao.ipynb
 
 
